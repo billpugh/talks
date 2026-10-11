@@ -5,6 +5,8 @@
 
 Given in UC San Diego's [Tales of Modern Software Engineering](https://stevenjswanson.github.io/modern-swe/) series on October 12, 2026. An earlier version was given to a class at the University of Maryland on September 29, 2026.
 
+The slides, except for the ones about revising the CS curriculum, will be presented in the "Tales of Modern Software Engineering" series. The slides on revising the CS curriculum will be presented and discussed in the [UCSD CS Education Research seminar](https://sites.google.com/ucsd.edu/cs-ed-research-group/home).
+
 ## Materials
 
 - **[Slides, with the references for each slide](https://billpugh.github.io/talks/2026-10-12-UCSD/)** (HTML; use the Play button for a slideshow)
