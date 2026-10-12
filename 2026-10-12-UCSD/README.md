@@ -9,9 +9,9 @@ The slides, except for the ones about revising the CS curriculum, will be presen
 
 ## Materials
 
-- **[Slides, with the references for each slide](https://billpugh.github.io/talks/2026-10-12-UCSD/)** (HTML; use the Play button for a slideshow)
-- **[Slides as a PDF](slides.pdf)**
-- **[References](references.md)**: every source cited on a slide, with slide numbers
+- **[Slides, with the references for each slide](https://billpugh.github.io/talks/2026-10-12-UCSD/slides.html)** (HTML; use the Play button for a slideshow)
+- **[Slides as a PDF](https://billpugh.github.io/talks/2026-10-12-UCSD/slides.pdf)**
+- **[References](https://github.com/billpugh/talks/blob/main/2026-10-12-UCSD/references.md)**: every source cited on a slide, with slide numbers
 
 ## Abstract
 
